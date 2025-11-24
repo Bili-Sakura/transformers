@@ -122,6 +122,7 @@ else:
             ("instructblip", ("BlipImageProcessor", "BlipImageProcessorFast")),
             ("internvl", ("GotOcr2ImageProcessor", "GotOcr2ImageProcessorFast")),
             ("janus", ("JanusImageProcessor", "JanusImageProcessorFast")),
+            ("kimi_vl", ("KimiVLImageProcessor", None)),
             ("kosmos-2", ("CLIPImageProcessor", "CLIPImageProcessorFast")),
             ("kosmos-2.5", ("Kosmos2_5ImageProcessor", "Kosmos2_5ImageProcessorFast")),
             ("layoutlmv2", ("LayoutLMv2ImageProcessor", "LayoutLMv2ImageProcessorFast")),

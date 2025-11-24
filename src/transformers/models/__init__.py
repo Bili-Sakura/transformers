@@ -182,6 +182,7 @@ if TYPE_CHECKING:
     from .jamba import *
     from .janus import *
     from .jetmoe import *
+    from .kimi_vl import *
     from .kosmos2 import *
     from .kyutai_speech_to_text import *
     from .layoutlm import *

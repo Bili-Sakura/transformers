@@ -90,6 +90,7 @@ PROCESSOR_MAPPING_NAMES = OrderedDict(
         ("instructblipvideo", "InstructBlipVideoProcessor"),
         ("internvl", "InternVLProcessor"),
         ("janus", "JanusProcessor"),
+        ("kimi_vl", "KimiVLProcessor"),
         ("kosmos-2", "Kosmos2Processor"),
         ("kosmos-2.5", "Kosmos2_5Processor"),
         ("kyutai_speech_to_text", "KyutaiSpeechToTextProcessor"),
